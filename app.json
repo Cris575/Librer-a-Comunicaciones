@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Comunicaciones",
-    "slug": "Comunicaciones",
+    "name": "Actividad 7 - Librería Comunicaciones",
+    "slug": "Actividad 7 - Librería Comunicaciones",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
